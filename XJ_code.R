@@ -1,6 +1,3 @@
-#################################
-## IMPORT FUNCTIONS & PACKAGES ##
-#################################
 library(readr)
 library(viridis)
 library(R.filesets)
